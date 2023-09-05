@@ -1,0 +1,12 @@
+{
+    "russian":{
+        "about": "здесь будет смешной текст",
+        "second": "текст временный и поменяется",
+        "third": "ну типо он точно поменяется"
+    },
+    "english":{
+        "about": "funny text goes here",
+        "second": "text is subject to change",
+        "third": "i mean it's definetly gonna change"
+    }
+}
