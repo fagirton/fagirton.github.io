@@ -50,12 +50,8 @@
     <script>
 
 
-        fetch("./text.json")
-        .then((res) => {
-        return res.json();
-    })
-    .then((data) => var jsonFile = data;);
-        }
+        var jsonFile = require('./text.json');
+        
         const windowTemplate = document.createElement("section")
         windowTemplate.setAttribute("class", "field-row")
         windowTemplate.setAttribute("style", "margin-left: 30%")
