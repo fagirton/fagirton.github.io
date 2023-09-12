@@ -46,11 +46,10 @@
             </div>
         </div>
     </section>
-
+    
+    <script type="text/javascript" src="text.json"></script>
     <script>
-
-
-        var jsonFile = require('./text.json');
+        var jsonFile = JSON.parse(text);
         
         const windowTemplate = document.createElement("section")
         windowTemplate.setAttribute("class", "field-row")
