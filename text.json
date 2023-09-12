@@ -1,4 +1,4 @@
-{
+text = "{
     "russian":{
         "about": "здесь будет смешной текст",
         "second": "текст временный и поменяется",
@@ -9,4 +9,4 @@
         "second": "text is subject to change",
         "third": "i mean it's definetly gonna change"
     }
-}
+}"
